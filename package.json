@@ -1,0 +1,11 @@
+{
+  "name": "@types/liff",
+  "version": "0.0.1",
+  "private": true,
+  "types": "index",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^6.7.1",
+    "axios": "^0.19.0"
+  }
+}
